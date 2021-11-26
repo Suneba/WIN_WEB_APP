@@ -3,7 +3,7 @@ browser_made_app QTWEB
 
 REQUIREMENTS
 ___________
-pip install pyqt5 and qtwebengine
+pip install pyqt5 and qtwebengine"\n"
 pyinstaller if you want to make an executabele file
 
 _______________
